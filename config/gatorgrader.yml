@@ -32,4 +32,4 @@ writing/update.md:
     --paragraphs 2 --exact
     --words 100
 # --> check the number of commits beyond a threshold
---commits 10
+--commits 20
